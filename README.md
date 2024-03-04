@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there, I'm Salla! 👋 
 
 <!--
 **sallaselina/sallaselina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,6 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Salla!
 I'm a student at Business College Helsinki (BC).
 🌱 I’m currently learning JavaScript, PHP, HTML and CSS. 
 📫 How to reach me: send me a message in LinkedIn!
